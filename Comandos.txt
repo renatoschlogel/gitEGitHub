@@ -1,0 +1,15 @@
+
+
+Trabalhando com Branchins:
+    
+    git branch                 // listar Branchts
+    git branch <nome>          // Crian uma branch
+    git branch -d <nome>       // Apagar um branch
+    git checkout <nomebranch>  // trocar de branch
+
+Fazendo Merge:
+
+Fazendo Rebase:
+
+
+
