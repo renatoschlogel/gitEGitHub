@@ -8,6 +8,7 @@ Trabalhando com Branchins:
     git checkout <nomebranch>  // trocar de branch
 
 Fazendo Merge:
+    git marge <nomebranch>
 
 Fazendo Rebase:
 
