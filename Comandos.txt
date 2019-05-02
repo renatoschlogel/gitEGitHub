@@ -10,7 +10,7 @@ Trabalhando com Branchins:
 Fazendo Merge:
     git marge <nomebranch>
 
-Fazendo Rebase:
-
+Tags (release)
+    git tag <nometag>
 
 
