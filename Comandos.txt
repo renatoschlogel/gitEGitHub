@@ -8,7 +8,7 @@ Trabalhando com Branchins:
     git checkout <nomebranch>  // trocar de branch
 
 Fazendo Merge:
-    git marge <nomebranch>
+    git marge <nomebranch>   // Você vai atualizar a branch cujo você se localiza;
 
 Tags (release)
     git tag <nometag>
